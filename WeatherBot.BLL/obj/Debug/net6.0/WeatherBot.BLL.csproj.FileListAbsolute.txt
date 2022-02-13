@@ -1,0 +1,15 @@
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\WeatherBot.BLL.deps.json
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\WeatherBot.BLL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\ref\WeatherBot.BLL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\WeatherBot.BLL.pdb
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\WeatherBot.Core.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\bin\Debug\net6.0\WeatherBot.Core.pdb
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.csproj.AssemblyReference.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.AssemblyInfoInputs.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.AssemblyInfo.cs
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.csproj.CopyComplete
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\ref\WeatherBot.BLL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.BLL\obj\Debug\net6.0\WeatherBot.BLL.pdb

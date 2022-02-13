@@ -1,0 +1,15 @@
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\WeatherBot.DAL.deps.json
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\WeatherBot.DAL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\ref\WeatherBot.DAL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\WeatherBot.DAL.pdb
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\WeatherBot.Core.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\bin\Debug\net6.0\WeatherBot.Core.pdb
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.csproj.AssemblyReference.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.AssemblyInfoInputs.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.AssemblyInfo.cs
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.csproj.CopyComplete
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\ref\WeatherBot.DAL.dll
+C:\Users\Kirill\RiderProjects\KirillBot.API\WeatherBot.DAL\obj\Debug\net6.0\WeatherBot.DAL.pdb

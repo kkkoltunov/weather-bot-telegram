@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ltwtRKb63bErRGdYT4ci6sFpHmtXnC4Y6V4N1JEOyxI=",
+  "Source": "WeatherBot.API",
+  "BasePath": "_content/WeatherBot.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
